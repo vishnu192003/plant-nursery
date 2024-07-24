@@ -1,0 +1,23 @@
+.heading{
+    background-color: #951515;
+    text-align: center;
+    font-size: 30px;
+    padding: 10px;
+    margin-bottom: 10px;
+    border-radius: 10px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+
+.btn-add{
+    height: 50px;
+    position: fixed;
+    right: 20rem;
+    bottom: 50px;
+    cursor: pointer;
+    transition: .5s;
+}
+.btn-add:hover{
+    transform: scale(1.2);
+}
